@@ -75,7 +75,7 @@ a {
 .line {
   border-left: 5px solid #ffffff;
   padding-left: 15px;
-  height: 39vh;
+  height: 34vh;
   margin-left: 200px;
   margin-top: -555px;
 }
@@ -95,4 +95,49 @@ a {
   text-align: center;
 
   /* color: rgb(255, 255, 255); */
+}
+
+.introduce {
+  font-size: 100px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin-top: 100px;
+
+}
+
+.introduce2 {
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-weight: lighter;
+}
+
+.normal {
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  font-weight: normal;
+  letter-spacing: 13px;
+  margin-left: 240px;
+  margin-top: 375px;
+}
+
+.mini {
+  font-size: 50px;
+  font-weight: lighter;
+  margin-left: 100px;
+}
+
+.line3 {
+  border-left: 5px solid #ffffff;
+  padding-left: 50px;
+  height: 91.3vh;
+  width: 0px;
+  margin-left: 925px;
+  margin-top: -695px;
+  filter: blur(15px) brightness(300);
+}
+
+.skill {
+  width: 20px;
+  margin-left: 985px;
 }
